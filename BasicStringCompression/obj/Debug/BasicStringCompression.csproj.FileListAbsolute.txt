@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Test.Anexinet\BasicStringCompression\bin\Debug\BasicStringCompression.exe.config
+C:\Users\pc\source\repos\Test.Anexinet\BasicStringCompression\bin\Debug\BasicStringCompression.exe
+C:\Users\pc\source\repos\Test.Anexinet\BasicStringCompression\bin\Debug\BasicStringCompression.pdb
+C:\Users\pc\source\repos\Test.Anexinet\BasicStringCompression\obj\Debug\BasicStringCompression.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Test.Anexinet\BasicStringCompression\obj\Debug\BasicStringCompression.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Test.Anexinet\BasicStringCompression\obj\Debug\BasicStringCompression.exe
+C:\Users\pc\source\repos\Test.Anexinet\BasicStringCompression\obj\Debug\BasicStringCompression.pdb

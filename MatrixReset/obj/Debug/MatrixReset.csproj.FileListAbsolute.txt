@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Test.Anexinet\MatrixReset\bin\Debug\MatrixReset.exe.config
+C:\Users\pc\source\repos\Test.Anexinet\MatrixReset\bin\Debug\MatrixReset.exe
+C:\Users\pc\source\repos\Test.Anexinet\MatrixReset\bin\Debug\MatrixReset.pdb
+C:\Users\pc\source\repos\Test.Anexinet\MatrixReset\obj\Debug\MatrixReset.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Test.Anexinet\MatrixReset\obj\Debug\MatrixReset.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Test.Anexinet\MatrixReset\obj\Debug\MatrixReset.exe
+C:\Users\pc\source\repos\Test.Anexinet\MatrixReset\obj\Debug\MatrixReset.pdb

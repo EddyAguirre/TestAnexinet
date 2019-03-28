@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Test.Anexinet\ClockAngle\bin\Debug\ClockAngle.exe.config
+C:\Users\pc\source\repos\Test.Anexinet\ClockAngle\bin\Debug\ClockAngle.exe
+C:\Users\pc\source\repos\Test.Anexinet\ClockAngle\bin\Debug\ClockAngle.pdb
+C:\Users\pc\source\repos\Test.Anexinet\ClockAngle\obj\Debug\ClockAngle.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Test.Anexinet\ClockAngle\obj\Debug\ClockAngle.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Test.Anexinet\ClockAngle\obj\Debug\ClockAngle.exe
+C:\Users\pc\source\repos\Test.Anexinet\ClockAngle\obj\Debug\ClockAngle.pdb

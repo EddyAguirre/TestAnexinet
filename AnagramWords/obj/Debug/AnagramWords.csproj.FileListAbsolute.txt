@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Test.Anexinet\AnagramWords\bin\Debug\AnagramWords.exe.config
+C:\Users\pc\source\repos\Test.Anexinet\AnagramWords\bin\Debug\AnagramWords.exe
+C:\Users\pc\source\repos\Test.Anexinet\AnagramWords\bin\Debug\AnagramWords.pdb
+C:\Users\pc\source\repos\Test.Anexinet\AnagramWords\obj\Debug\AnagramWords.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Test.Anexinet\AnagramWords\obj\Debug\AnagramWords.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Test.Anexinet\AnagramWords\obj\Debug\AnagramWords.exe
+C:\Users\pc\source\repos\Test.Anexinet\AnagramWords\obj\Debug\AnagramWords.pdb

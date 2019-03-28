@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Test.Anexinet\MathFunction\bin\Debug\MathFunction.exe.config
+C:\Users\pc\source\repos\Test.Anexinet\MathFunction\bin\Debug\MathFunction.exe
+C:\Users\pc\source\repos\Test.Anexinet\MathFunction\bin\Debug\MathFunction.pdb
+C:\Users\pc\source\repos\Test.Anexinet\MathFunction\obj\Debug\MathFunction.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\Test.Anexinet\MathFunction\obj\Debug\MathFunction.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Test.Anexinet\MathFunction\obj\Debug\MathFunction.exe
+C:\Users\pc\source\repos\Test.Anexinet\MathFunction\obj\Debug\MathFunction.pdb

@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\Test.Anexinet\SwapInteger\bin\Debug\SwapInteger.exe.config
+C:\Users\pc\source\repos\Test.Anexinet\SwapInteger\bin\Debug\SwapInteger.exe
+C:\Users\pc\source\repos\Test.Anexinet\SwapInteger\bin\Debug\SwapInteger.pdb
+C:\Users\pc\source\repos\Test.Anexinet\SwapInteger\obj\Debug\SwapInteger.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Test.Anexinet\SwapInteger\obj\Debug\SwapInteger.exe
+C:\Users\pc\source\repos\Test.Anexinet\SwapInteger\obj\Debug\SwapInteger.pdb
+C:\Users\pc\source\repos\Test.Anexinet\SwapInteger\obj\Debug\SwapInteger.csprojAssemblyReference.cache
